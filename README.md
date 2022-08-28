@@ -1,4 +1,4 @@
-# Instalasi dan Konfigurasi Gitlab CI dan Docker Kontainer Ubuntu 20.04 LTS
+# Instalasi dan Konfigurasi Gitlab CI & Docker Kontainer Ubuntu 20.04 LTS
 
 # 1. Instalasi Gitlab CI
 GitLab adalah repositori kode berbasis web gratis dan open-source untuk pengembangan perangkat lunak kolaboratif. Gitlab adalah salah satu dari banyak tool DevOps yang digunakan oleh DevOps Engineer.
