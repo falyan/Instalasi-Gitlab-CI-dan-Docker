@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=YqJdgNbfAyc
 Selamat Kamu sudah berhasil melakukan instalasi Gitlab
 
 
-# 2 Instalasi Docker pada Ubuntu 20.04 LTS
+# 2. Instalasi Docker pada Ubuntu 20.04 LTS
 Docker adalah aplikasi untuk menyatukan berbagai file software dan pendukungnya dalam sebuah kontainer agar memudahkan proses pengembangan software.
 
 mengapa kita perlu menggunakan container seperti yang ditawarkan Docker?
