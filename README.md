@@ -30,7 +30,7 @@ sudo apt install gitlab-ce
 Dengan menginstal GitLab, kita sekarang dapat mengonfigurasi SSL, kata sandi nama domain atau nama subdomain, dan banyak lagi. Tutorial akan membahas opsi pengaturan dasar yang harus dilakukan. Namun, kita dapat melakukan pengaturan alternatif untuk yang tercantum di dalam file gitlab.rb
 Gunakan teks editor kesayangan kalian seperti vi, vim, dan nano untuk mengedit file tersebut.
 ```sh
-sudo nano nano /etc/gitlab/gitlab.rb
+sudo vi /etc/gitlab/gitlab.rb
 ```
 - Pengaturan pertama adalah mengatur domain, menavigasi ke baris 36, uncomment lalu isi sesuai domain yang kamu inginkan.
   
